@@ -24,7 +24,7 @@ endfunction
 
 "" ** internal ** {{{
 
-"" warnings 
+"" warnings
 
 let s:displayed_warnings = 0
 function s:Warnings()
